@@ -1,6 +1,6 @@
 # Live Demo
 
-![Live Demo](https://github.com/younes-alturkey/nahdi-auto-magazine-script/blob/main/demo.gif)
+![Live Demo](https://github.com/younes-alturkey/nahdi-shelf-talker-script/blob/main/demo.gif)
 
 # Nahdi Marketing Department Promo Automation
 
